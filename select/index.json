@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "NOT CUTE ANYMORE (Holiday Party ver.)",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-03-30T05:33:47.689710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NOT CUTE ANYMORE (Holiday Party ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_NOT_CUTE_ANYMORE_(Holiday_Party_ver.)_ILLIT.lrc"
+    }
+  ]
+}
